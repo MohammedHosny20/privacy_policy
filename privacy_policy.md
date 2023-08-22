@@ -1,21 +1,40 @@
-# Privacy Policy
+# سياسة الخصوصية
 
-We MTA takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
-
-
-## Collection of Routine Information
-
-This App track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this app. The information is tracked for routine administration and maintenance purposes.
+نحن أو إجازة نأخذ خصوصيتك على محمل الجد. لحماية خصوصيتك بشكل أفضل، نقدم إشعار سياسة الخصوصية هذا الذي يشرح الطريقة التي يتم بها جمع معلوماتك الشخصية واستخدامها.
 
 
-## Cookies
+## جمع المعلومات الروتينية
 
-Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the user  or present theuser with customized content.
+تقوم هذه الإجازة بتتبع المعلومات الأساسية عن مستخدميها. تتضمن هذه المعلومات، على سبيل المثال لا الحصر، عناوين IP وتفاصيل التطبيق (إجازة) والطوابع الزمنية والصفحات المرجعية. لا يمكن لأي من هذه المعلومات التعرف شخصيًا على مستخدمين محددين لهذا التطبيق (إجازة). يتم تعقب المعلومات لأغراض الإدارة والصيانة الروتينية.
 
-## Security
 
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.
+## بسكويت
 
-## Contact Information
+عند الضرورة، يستخدم هذا التطبيق (إجازة) ملفات تعريف الارتباط لتخزين المعلومات حول تفضيلات الزائر وتاريخه من أجل خدمة المستخدم بشكل أفضل و/أو تقديم محتوى مخصص للمستخدم.
 
-For any questions or concerns regarding the privacy policy, please send me an email to visooft@gmail.com.
+
+## الإعلان والأطراف الثالثة الأخرى
+
+قد يستخدم شركاء الإعلان والجهات الخارجية الأخرى ملفات تعريف الارتباط و/أو البرامج النصية و/أو إشارات الويب لتتبع أنشطة المستخدمين على هذا التطبيق (إجازة) من أجل عرض الإعلانات والمعلومات المفيدة الأخرى. ويتم هذا التتبع مباشرة من قبل أطراف ثالثة من خلال خوادمهم الخاصة ويخضع لسياسات الخصوصية الخاصة بهم. لا يتمتع هذا التطبيق (إجازة) بإمكانية الوصول أو التحكم في ملفات تعريف الارتباط و/أو البرامج النصية و/أو إشارات الويب التي يمكن استخدامها من قبل أطراف ثالثة. تعرف على كيفية [إلغاء الاشتراك في استخدام ملفات تعريف الارتباط من Google](http://www.google.com/privacy_ads.html).
+
+
+## روابط لمواقع الطرف الثالث
+
+لقد قمنا بتضمين روابط في هذا التطبيق (إجازة) لاستخدامك ومرجعك. نحن لسنا مسؤولين عن سياسات الخصوصية على هذه المواقع. يجب أن تدرك أن سياسات الخصوصية لهذه المواقع قد تختلف عن سياساتنا.
+
+
+## حماية
+
+يعد أمان معلوماتك الشخصية أمرًا مهمًا بالنسبة لنا، ولكن تذكر أنه لا توجد طريقة نقل عبر الإنترنت، أو طريقة تخزين إلكترونية، آمنة بنسبة 100%. بينما نسعى جاهدين لاستخدام وسائل مقبولة تجاريًا لحماية معلوماتك الشخصية، لا يمكننا ضمان أمانها المطلق.
+
+
+## التغييرات في سياسة الخصوصية هذه
+
+تسري سياسة الخصوصية هذه اعتبارًا من 23/08/2023 وستظل سارية المفعول إلا فيما يتعلق بأي تغييرات في أحكامها في المستقبل، والتي ستكون سارية المفعول فور نشرها على هذه الصفحة.
+
+نحن نحتفظ بالحق في تحديث أو تغيير سياسة الخصوصية الخاصة بنا في أي وقت، ويجب عليك مراجعة سياسة الخصوصية هذه بشكل دوري. إذا قمنا بإجراء أي تغييرات جوهرية على سياسة الخصوصية هذه، فسوف نقوم بإعلامك إما من خلال عنوان البريد الإلكتروني الذي قدمته لنا، أو عن طريق وضع إشعار بارز على تطبيقنا (إجازة).
+
+
+## معلومات الاتصال
+
+إذا كانت لديك أي أسئلة أو استفسارات بخصوص سياسة الخصوصية، يرجى مراسلتنا عبر البريد الإلكتروني على visooft@gmail.com.
